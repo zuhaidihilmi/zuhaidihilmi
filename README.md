@@ -124,8 +124,52 @@
                     <th scope="col">Workscope</th>
                     <th scope="col">Location</th>
                 </tr>
-                <tr>
+                 <tr>
                     <td>1</td>
+                    <td>Pre-Purchase Inspection</td>
+                    <td>Readu5</td>
+                    <td>Singapore Airlines</td>
+                    <td>B777</td>
+                    <td>28521<br>28525<br>28526<br>30870</td>
+                    <td>2021 til date</td>
+                    <td>Pre-Purchase Inspection<br>Check Package preparation<br>Redelivery Records</td>
+                    <td>Airline House SIA/Remotely</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Pre-Purchase Inspection</td>
+                    <td>IAES</td>
+                    <td>AERCAP</td>
+                    <td>A320</td>
+                    <td>2926</td>
+                    <td>2021</td>
+                    <td>Pre-Purchase Records Inspection</td>
+                    <td>Sepang(Red Chain), Malaysia</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Redelivery</td>
+                    <td>Dragon Aviation Capital</td>
+                    <td>CASTLELAKE</td>
+                    <td>A320</td>
+                    <td>3521</td>
+                    <td>2021</td>
+                    <td>Redelivery Records</td>
+                    <td>SAE, Malaysia</td>
+                </tr>
+                 <tr>
+                    <td>4</td>
+                    <td>Redelivery</td>
+                    <td>N/A</td>
+                    <td>AIRCALIN</td>
+                    <td>A320</td>
+                    <td>3547</td>
+                    <td>2020</td>
+                    <td>Hardcopy Review</td>
+                    <td>SAE, Malaysia</td>
+                </tr>
+                <tr>
+                    <td>5</td>
                     <td>Redelivery</td>
                     <td>AERCAP</td>
                     <td>Flynas</td>
@@ -136,7 +180,7 @@
                     <td>Remotely</td>
                 </tr>
                 <tr>
-                    <td>2</td>
+                    <td>6</td>
                     <td>Redelivery</td>
                     <td>AERCAP</td>
                     <td>Flynas</td>
@@ -147,7 +191,7 @@
                     <td>Fokker Techniek, Netherlands</td>
                 </tr>
                 <tr>
-                    <td>3</td>
+                    <td>7</td>
                     <td>Redelivery</td>
                     <td>PMB</td>
                     <td>Malaysia Airlines System</td>
@@ -158,7 +202,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>  
-                    <td>4</td>
+                    <td>8</td>
                     <td>Annual Audit</td>
                     <td>ALAFCO</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -169,7 +213,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>5</td>
+                    <td>9</td>
                     <td>Annual Audit</td>
                     <td>Standard Chartered</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -180,7 +224,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>6</td>
+                    <td>10</td>
                     <td>Annual Audit</td>
                     <td>Avolon</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -191,7 +235,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>7</td>
+                    <td>11</td>
                     <td>Annual Audit</td>
                     <td>Novus Aviation</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -212,7 +256,7 @@
             <p>Part-M course (2019)</p>
             <p>Introduction to HTML5 (2020)</p>
             <p>Introduction to CSS (2020)</p>
-            <p>Certified Data Scientist (2022)</p>
+            <p>Applied Data Scientist [Macchine learning, Phyton programming, Data Preparation & Data Analysis, Data Visualization] (2022)</p>
              
         </section>
 

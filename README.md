@@ -116,11 +116,11 @@
                 <tr>
                     <th scope="col">No</th>
                     <th scope="col">Project Type</th>
-                    <th scope="col">Lessor</th>
-                    <th scope="col">Lessee</th>
+                    <th scope="col">Consultant agency/Company</th>
+                    <th scope="col">Lessor/Lessee</th>
                     <th scope="col">AC Type</th>
                     <th scope="col">MSN</th>
-                    <th scope="col">Time</th>
+                    <th scope="col">Date</th>
                     <th scope="col">Workscope</th>
                     <th scope="col">Location</th>
                 </tr>
@@ -171,7 +171,18 @@
                 <tr>
                     <td>5</td>
                     <td>Redelivery</td>
-                    <td>AERCAP</td>
+                    <td>Pakaravia Solution</td>
+                    <td>Flynas</td>
+                    <td>A320</td>
+                    <td>3475</td>
+                    <td>2020</td>
+                    <td>Redelivery Records</td>
+                    <td>Remotely</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Redelivery</td>
+                    <td>Pakaravia Solution</td>
                     <td>Flynas</td>
                     <td>A319</td>
                     <td>1872</td>
@@ -180,18 +191,18 @@
                     <td>Remotely</td>
                 </tr>
                 <tr>
-                    <td>6</td>
+                    <td>7</td>
                     <td>Redelivery</td>
-                    <td>AERCAP</td>
+                    <td>Pakaravia Solution</td>
                     <td>Flynas</td>
                     <td>A320</td>
-                    <td>3396</td>
+                    <td>3396<br>3361</td>
                     <td>2020</td>
                     <td>Redelivery Records</td>
                     <td>Fokker Techniek, Netherlands</td>
                 </tr>
                 <tr>
-                    <td>7</td>
+                    <td>8</td>
                     <td>Redelivery</td>
                     <td>PMB</td>
                     <td>Malaysia Airlines System</td>
@@ -202,7 +213,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>  
-                    <td>8</td>
+                    <td>9</td>
                     <td>Annual Audit</td>
                     <td>ALAFCO</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -213,7 +224,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>9</td>
+                    <td>10</td>
                     <td>Annual Audit</td>
                     <td>Standard Chartered</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -224,7 +235,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>10</td>
+                    <td>11</td>
                     <td>Annual Audit</td>
                     <td>Avolon</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -235,7 +246,7 @@
                     <td>Sepang, Malaysia</td>
                 </tr>
                 <tr>
-                    <td>11</td>
+                    <td>12</td>
                     <td>Annual Audit</td>
                     <td>Novus Aviation</td>
                     <td>Malaysia Airlines Berhad</td>
@@ -256,7 +267,7 @@
             <p>Part-M course (2019)</p>
             <p>Introduction to HTML5 (2020)</p>
             <p>Introduction to CSS (2020)</p>
-            <p>Applied Data Scientist [Macchine learning, Phyton programming, Data Preparation & Data Analysis, Data Visualization] (2022)</p>
+            <p>Applied Data Scientist - Macchine learning, Phyton programming, Data Preparation & Data Analysis, Data Visualization (2022)</p>
              
         </section>
 
@@ -265,4 +276,5 @@
             <p>HTML 5 <progress value="20" max ="100"></progress></p>
             <p>CSS <progress value="20" max ="100"></progress></p>
             <p>Microsoft Office <progress value="80" max ="100"></progress></p>
+            <p>Data Analytical <progress value="20" max ="100"></progress></p>
         </section>

@@ -82,16 +82,12 @@
                 </ul>
             </p>
             <h5>Process engineering</h5>
-            <p>
-                <ul>
+                    <ul>
                     <li>Improvise standard operating procedure (SOP) of aircraft redelivery process</li>
-            </p>
             <h5>Customer Support</h5>
-            <p>
                 <ul>
                     <li>Act as a liaison, provide information related to aircraft audit and resolve any customer queries<li>
                 </ul>
-            </p> 
             <h5>Planning</h5>
             <p>
                 <ul>

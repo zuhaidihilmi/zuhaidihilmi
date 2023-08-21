@@ -71,33 +71,35 @@
             </p>
             <h3>Lease Planning Officer</h3>
             <h4>Malaysia Airlines Berhad (Oct 2017 – Mar 2019)</h4>
-            <h5>Project Management</h5>
-            <p>
-                <ul>
-                    <li>Perform cost-benefit analysis (CBA) for engineering workshop capability upgrade</li>
-                    <li>Perform cost-benefit analysis (CBA) for aircraft lease extension study</li>
-                    <li>Calculate redelivery adjustment (RDA) value based on lease agreement</li>
-                    <li>Accomplished aircraft physical and records audit</li>
-                </ul>
-            </p>
-            <h5>Process engineering</h5>
-                    <ul>
-                    <li>Improvise standard operating procedure (SOP) of aircraft redelivery process</li>
-            <h5>Customer Support</h5>
-                <ul>
-                    <li>Act as a liaison, provide information related to aircraft audit and resolve any customer queries<li>
-                </ul>
-            <h5>Planning</h5>
-            <p>
-                <ul>
-                    <li>Prepare annual budget for the department</li>
-                    <li>Plan component/material changes based on lease agreement</li>
-                    <li>Plan major task and preliminary budget for each aircraft redelivery</li>
-                    <li>Perform aircraft maintenance forecast & planning (Airworthiness Directive, Service Bulletin, Aircraft Maintenance Program)</li>
-                </ul>
-            </p>
-        </section>
-
+            <h4>Malaysia Airlines Berhad (Oct 2017 – Mar 2019)</h4>
+<ul>
+    <li>Project Management
+        <ul>
+            <li>Perform cost-benefit analysis (CBA) for engineering workshop capability upgrade</li>
+            <li>Perform cost-benefit analysis (CBA) for aircraft lease extension study</li>
+            <li>Calculate redelivery adjustment (RDA) value based on lease agreement</li>
+            <li>Accomplished aircraft physical and records audit</li>
+        </ul>
+    </li>
+    <li>Process engineering
+        <ul>
+            <li>Improvise standard operating procedure (SOP) of aircraft redelivery process</li>
+        </ul>
+    </li>
+    <li>Customer Support
+        <ul>
+            <li>Act as a liaison, provide information related to aircraft audit and resolve any customer queries</li>
+        </ul>
+    </li>
+    <li>Planning
+        <ul>
+            <li>Prepare annual budget for the department</li>
+            <li>Plan component/material changes based on lease agreement</li>
+            <li>Plan major task and preliminary budget for each aircraft redelivery</li>
+            <li>Perform aircraft maintenance forecast & planning (Airworthiness Directive, Service Bulletin, Aircraft Maintenance Program)</li>
+        </ul>
+    </li>
+</ul>
         <section id="education">
             <h2>Education Background</h2>
             <h3>Higher Education</h3>

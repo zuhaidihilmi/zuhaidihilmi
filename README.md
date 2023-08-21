@@ -71,7 +71,6 @@
             </p>
             <h3>Lease Planning Officer</h3>
             <h4>Malaysia Airlines Berhad (Oct 2017 – Mar 2019)</h4>
-            <h4>Malaysia Airlines Berhad (Oct 2017 – Mar 2019)</h4>
 <ul>
     <li>Project Management
         <ul>

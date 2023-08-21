@@ -279,3 +279,30 @@
             <p>HTML 5 <progress value="20" max ="100"></progress></p>
             <p>CSS <progress value="20" max ="100"></progress></p>
         </section>
+
+        <section id="reference">
+         <h2>Portfolio</h2>
+            <table border="2">
+                <tr>
+                    <th scope="col">No</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Relation</th>
+                    <th scope="col">Current Position</th>
+                    <th scope="col">Contact info</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Nazaleq Zainuddin</td>
+                    <td>Former Superior</td>
+                    <td>Engineering Director, AAT Subang</td>
+                    <td>nazaleq@pakaravia.com<br>+60196650732</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Amirul Aimin Jumaat</td>
+                    <td>Former Colleague</td>
+                    <td>Independent Consultant</td>
+                    <td>amirul.jumaat@gmail.com<br>+60136274225</td>
+                </tr>
+                    
+    </section>

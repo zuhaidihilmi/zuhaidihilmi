@@ -273,8 +273,9 @@
 
         <section id="skills">
             <h2>Skills</h2>
+            <p>Microsoft Office <progress value="80" max ="100"></progress></p>
+            <p>AMOS <progress value="60" max ="100"></progress></p>
+            <p>Data Analysis <progress value="30" max ="100"></progress></p>
             <p>HTML 5 <progress value="20" max ="100"></progress></p>
             <p>CSS <progress value="20" max ="100"></progress></p>
-            <p>Microsoft Office <progress value="80" max ="100"></progress></p>
-            <p>Data Analytical <progress value="20" max ="100"></progress></p>
         </section>

@@ -163,7 +163,7 @@
                     <td>ALAFCO</td>
                     <td>Malaysia Airlines Berhad</td>
                     <td>B737</td>
-                    <td>39333,39334</td>
+                    <td>39333<br>39334</td>
                     <td>2019</td>
                     <td>Annual Inspection (Physical/Records)</td>
                     <td>Sepang, Malaysia</td>
@@ -173,8 +173,8 @@
                     <td>Annual Audit</td>
                     <td>Standard Chartered</td>
                     <td>Malaysia Airlines Berhad</td>
-                    <td>A330,B737</td>
-                    <td>1209,40149</td>
+                    <td>A330<br>B737</td>
+                    <td>1209<br>40149</td>
                     <td>2019</td>
                     <td>Annual Inspection (Physical/Records)</td>
                     <td>Sepang, Malaysia</td>
@@ -196,7 +196,7 @@
                     <td>Novus Aviation</td>
                     <td>Malaysia Airlines Berhad</td>
                     <td>A330</td>
-                    <td>1470,1281</td>
+                    <td>1470<br>1281</td>
                     <td>2018</td>
                     <td>Annual Inspection (Physical/Records)</td>
                     <td>Sepang, Malaysia</td>

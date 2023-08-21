@@ -219,6 +219,3 @@
             <p>CSS <progress value="20" max ="100"></progress></p>
             <p>Microsoft Office <progress value="80" max ="100"></progress></p>
         </section>
-    </main>
-</body>
-</html>

@@ -282,7 +282,7 @@
 
         <section id="reference">
          <h2>Reference</h2>
-            <table border="2" width="100%">
+            <table border="1" width="100%">
                 <tr>
                     <th scope="col">No</th>
                     <th scope="col">Name</th>

@@ -212,6 +212,8 @@
             <p>Part-M course (2019)</p>
             <p>Introduction to HTML5 (2020)</p>
             <p>Introduction to CSS (2020)</p>
+            <p>Certified Data Scientist (2022)</p>
+             
         </section>
 
         <section id="skills">

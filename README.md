@@ -304,5 +304,4 @@
                     <td>Independent Consultant</td>
                     <td>amirul.jumaat@gmail.com<br>+60136274225</td>
                 </tr>
-                    
-    </section>
+            

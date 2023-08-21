@@ -21,7 +21,7 @@
         <section id="personal">
             <h2>Personal Details</h2>
             <figure>
-    <img src="editor.jpg" width="30%" alt="Photo of Zuhaidi Hilmi">
+    <img src="editor.jpg" width="40%" alt="Photo of Zuhaidi Hilmi">
 </figure>
             <p>Address: No 22, Jalan Seroja 15, Taman Seroja, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor.</p>
             <p>Email: zuhaidi.hilmi@gmail.com</p>

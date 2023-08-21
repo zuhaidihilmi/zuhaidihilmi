@@ -267,7 +267,7 @@
             <p>Part-M course (2019)</p>
             <p>Introduction to HTML5 (2020)</p>
             <p>Introduction to CSS (2020)</p>
-            <p>Applied Data Scientist - Macchine learning, Phyton programming, Data Preparation & Data Analysis, Data Visualization (2022)</p>
+            <p>Applied Data Scientist - Machine learning, Phyton programming, Data Preparation & Data Analysis, Data Visualization (2022)</p>
              
         </section>
 

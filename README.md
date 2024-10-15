@@ -347,7 +347,11 @@
                     <progress value="70" max="100"></progress>
                 </div>
                 <div class="skill">
-                    <p>myBOEINGfleet/AIRBUS World</p>
+                    <p>AIRBUS World</p>
+                    <progress value="90" max="100"></progress>
+                </div>
+                <div class="skill">
+                    <p>myBOEINGfleet</p>
                     <progress value="90" max="100"></progress>
                 </div>
             </div>
@@ -375,5 +379,5 @@
                     <td>Amirul Aimin Jumaat</td>
                     <td>Former Colleague</td>
                     <td>Independent Consultant</td>
-                    <td>
+                    <td>amirul.jumaat@gmail.com<br>+60136274225</td>
                 </tr>

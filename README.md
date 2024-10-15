@@ -102,7 +102,7 @@
         <section id="education">
             <h2>Education Background</h2>
             <h3>Tertiary Education</h3>
-            <p>Master in Business Administration(2024 - 2026)</p>
+            <p>Master in Business Administration (2024 - 2026)</p>
             <p>University of Technology MARA</p>
             
             <h3>Higher Education</h3>
@@ -277,11 +277,13 @@
 
         <section id="skills">
             <h2>Skills</h2>
-            <p>Microsoft Office <progress value="80" max ="100"></progress></p>
+            <p>Microsoft Office <progress value="95" max ="100"></progress></p>
             <p>AMOS <progress value="60" max ="100"></progress></p>
-            <p>Data Analysis <progress value="30" max ="100"></progress></p>
+            <p>Business/Data Analysis <progress value="80" max ="100"></progress></p>
             <p>HTML 5 <progress value="20" max ="100"></progress></p>
             <p>CSS <progress value="20" max ="100"></progress></p>
+            <p>Strategic Marketing <progress value="70" max ="100"></progress></p>
+            <p>myBOEINGfleet/AIRBUS World <progress value="90" max ="100"></progress></p>
         </section>
 
         <section id="reference">

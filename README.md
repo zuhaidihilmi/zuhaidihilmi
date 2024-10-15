@@ -101,6 +101,10 @@
 </ul>
         <section id="education">
             <h2>Education Background</h2>
+            <h3>Tertiary Education</h3>
+            <p>Master in Business Administration(2024 - 2026)</p>
+            <p>University of Technology MARA</p>
+            
             <h3>Higher Education</h3>
             <p>Bachelor of Aerospace Engineering (2013 - 2017)</p>
             <p>International Islamic University Malaysia</p>

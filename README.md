@@ -1,90 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zuhaidi Hilmi</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
-
-        header {
-            background: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-
-        nav a {
-            color: #fff;
-            padding: 10px;
-            text-decoration: none;
-        }
-
-        main {
-            padding: 20px;
-        }
-
-        section {
-            margin-bottom: 30px;
-        }
-
-        h2 {
-            color: #333;
-            border-bottom: 2px solid #333;
-            padding-bottom: 5px;
-            margin-bottom: 15px;
-        }
-
-        .skills-container {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .skill {
-            display: flex;
-            align-items: center;
-            width: calc(50% - 20px); /* Adjusts skill width for two-column layout */
-            margin-bottom: 10px;
-        }
-
-        .skill p {
-            flex-basis: 30%;
-            margin-right: 10px;
-        }
-
-        .skill progress {
-            flex-grow: 1;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-
-        table, th, td {
-            border: 1px solid black;
-        }
-
-        th, td {
-            padding: 8px;
-            text-align: left;
-        }
-
-        ul {
-            list-style-type: none;
-        }
-    </style>
+    <link rel="stylesheet" href="/Users/Admin/Desktop/Website Design/CSS/display.css">
 </head>
 <body>
     <header>
@@ -99,13 +17,12 @@
             <a href="#reference">Reference</a>
         </nav>
     </header>
-
     <main>
         <section id="personal">
             <h2>Personal Details</h2>
             <figure>
-                <img src="editor.jpg" alt="Photo of Zuhaidi Hilmi">
-            </figure>
+    <img src="editor.jpg" width="40%" alt="Photo of Zuhaidi Hilmi">
+</figure>
             <p>Address: No 22, Jalan Seroja 15, Taman Seroja, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor.</p>
             <p>Email: zuhaidi.hilmi@gmail.com</p>
             <p>Phone number: +6010-5757058</p>
@@ -114,36 +31,74 @@
         <section id="experience">
             <h2>Work Experience</h2>
             <h3>Independent Aircraft Technical Consultant</h3>
-            <ul>
-                <li>Study Airworthiness Directive (AD)/Service Bulletin (SB) applicability.</li>
-                <li>Ensure redelivered aircraft components meet documentation requirements.</li>
-                <li>Monitor task progress at Maintenance Repair Overhaul (MRO) centers.</li>
-                <li>Liaise with customer representatives to solve outstanding issues.</li>
-            </ul>
-
-            <h3>Technical Records cum Maintenance Operation Centre (MOC) Officer</h3>
+            <p>
+                <ul>
+                    <li>Study Airworthiness Directive (AD)/Service Bulletin (SB) to see whether it was applicable to the aircraft/components
+                        and accomplished properly in paperwork</li>
+                    <li>Check whether the components; On Condition-Condition Monitoring (OCCM),
+                        Hard Time (HT) and Life-limited parts (LLP) are returned to the Lessor as per Lease Agreement</li>
+                    <li>Ensure the redelivered aircraft components are equipped with
+                        proper documentation (Authorized Release Certificate, Dirty Fingerprint, Serviceable Label)</li>
+                    <li>Ensure LLP components are redelivered with Movement Traceability Sheet (MTS)/Back-to-Birth (BTB)</li>
+                    <li>Ensure the Last Done Next Due (LDND)
+                        task is updated as per last carried out date and revised as per current Maintenance Program Document (MPD)</li>
+                    <li>Monitor task carried out/needed to raise in Maintenance Repair Overhaul (MRO) centre during redelivery check</li>
+                    <li>Monitor spares that required for redelivery purposes (AOG, Pooling system)</li>
+                    <li>Liaise with customer representatives to solve outstanding issues</li>
+                </ul>
+            </p>
+            <h3>Technical Records cum Maintenance Operation Centre (MOC) officer</h3>
             <h4>Airasia Berhad (Nov 2019-Jan 2020)</h4>
-            <ul>
-                <li>Create engineering process manual for checks and weekly process verification.</li>
-                <li>Follow up on spare availability for deferred defect aircraft tasks.</li>
-                <li>Monitor Deferred Defect Monitoring Log for due time.</li>
-            </ul>
-
+            <p>
+                <ul>
+                    <li>Create engineering process manual procedure for 36H check and weekly check process verification</li>
+                    <li>Follow up spare availability for deferred defect aircraft task with Store</li>
+                    <li>Monitor Deferred Defect Monitoring Log for due time (to raise MELRIE if needed)</li>
+                    <li>Update journey monitoring log into AMOS system</li>
+                    <li>Create workorder for every aircraft maintenance (MR1/MR2) in AMOS system</li>
+                </ul>
+            </p>
             <h3>Technical Records Consultant</h3>
             <h4>Pricewaterhouse Coopers, PWC (Mar 2019 – Oct 2019)</h4>
-            <ul>
-                <li>Retrieve all DFPs from check packages.</li>
-                <li>Prepare Aircraft Dent & Buckle report mapping.</li>
-                <li>Coordinate redelivery documentation with departments.</li>
-            </ul>
-
+            <p>
+                <ul>
+                    <li>Retrieve all DFP (dirty finger prints) from check packages from the time aircraft enter into service</li>
+                    <li>Complete Aircraft Dent & Buckle (D&B) report mapping and listing</li>
+                    <li>Organize, prepare and index all redelivery documents to be returned to Lessors</li>
+                    <li>Coordinate with other departments (Quality Assurances, Technical Services, Material Planning,
+                        Engineering & Maintenance Planning) related to aircraft redelivery</li>
+                </ul>
+            </p>
             <h3>Lease Planning Officer</h3>
             <h4>Malaysia Airlines Berhad (Oct 2017 – Mar 2019)</h4>
-            <ul>
-                <li>Perform cost-benefit analysis (CBA) for lease extension studies.</li>
-                <li>Prepare redelivery adjustments and maintenance forecasts.</li>
-                <li>Act as a liaison and provide information on aircraft audits.</li>
-            </ul>
+<ul>
+    <li>Project Management
+        <ul>
+            <li>Perform cost-benefit analysis (CBA) for engineering workshop capability upgrade</li>
+            <li>Perform cost-benefit analysis (CBA) for aircraft lease extension study</li>
+            <li>Calculate redelivery adjustment (RDA) value based on lease agreement</li>
+            <li>Accomplished aircraft physical and records audit</li>
+        </ul>
+    </li>
+    <li>Process engineering
+        <ul>
+            <li>Improvise standard operating procedure (SOP) of aircraft redelivery process</li>
+        </ul>
+    </li>
+    <li>Customer Support
+        <ul>
+            <li>Act as a liaison, provide information related to aircraft audit and resolve any customer queries</li>
+        </ul>
+    </li>
+    <li>Planning
+        <ul>
+            <li>Prepare annual budget for the department</li>
+            <li>Plan component/material changes based on lease agreement</li>
+            <li>Plan major task and preliminary budget for each aircraft redelivery</li>
+            <li>Perform aircraft maintenance forecast & planning (Airworthiness Directive, Service Bulletin, Aircraft Maintenance Program)</li>
+        </ul>
+    </li>
+</ul>
         </section>
 
         <section id="education">

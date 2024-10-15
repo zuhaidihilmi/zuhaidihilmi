@@ -186,7 +186,127 @@
                     <td>Inspection, Package Prep, Redelivery Records</td>
                     <td>Airline House SIA/Remotely</td>
                 </tr>
-                <!-- Add more rows as needed -->
+                 <tr>
+                    <td>2</td>
+                    <td>Pre-Purchase Inspection</td>
+                    <td>IAES</td>
+                    <td>AERCAP</td>
+                    <td>A320</td>
+                    <td>2926</td>
+                    <td>2021</td>
+                    <td>Pre-Purchase Records Inspection</td>
+                    <td>Sepang(Red Chain), Malaysia</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Redelivery</td>
+                    <td>Dragon Aviation Capital</td>
+                    <td>CASTLELAKE</td>
+                    <td>A320</td>
+                    <td>3521</td>
+                    <td>2021</td>
+                    <td>Redelivery Records</td>
+                    <td>SAE, Malaysia</td>
+                </tr>
+                 <tr>
+                    <td>4</td>
+                    <td>Redelivery</td>
+                    <td>N/A</td>
+                    <td>AIRCALIN</td>
+                    <td>A320</td>
+                    <td>3547</td>
+                    <td>2020</td>
+                    <td>Hardcopy Review</td>
+                    <td>SAE, Malaysia</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Redelivery</td>
+                    <td>Pakaravia Solution</td>
+                    <td>Flynas</td>
+                    <td>A320</td>
+                    <td>3475</td>
+                    <td>2020</td>
+                    <td>Redelivery Records</td>
+                    <td>Remotely</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Redelivery</td>
+                    <td>Pakaravia Solution</td>
+                    <td>Flynas</td>
+                    <td>A319</td>
+                    <td>1872</td>
+                    <td>2020</td>
+                    <td>Redelivery Records</td>
+                    <td>Remotely</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Redelivery</td>
+                    <td>Pakaravia Solution</td>
+                    <td>Flynas</td>
+                    <td>A320</td>
+                    <td>3396<br>3361</td>
+                    <td>2020</td>
+                    <td>Redelivery Records</td>
+                    <td>Fokker Techniek, Netherlands</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Redelivery</td>
+                    <td>PMB</td>
+                    <td>Malaysia Airlines System</td>
+                    <td>B777</td>
+                    <td>28412</td>
+                    <td>2019</td>
+                    <td>Redelivery Records (Dent & Buckle)</td>
+                    <td>Sepang, Malaysia</td>
+                </tr>
+                <tr>  
+                    <td>9</td>
+                    <td>Annual Audit</td>
+                    <td>ALAFCO</td>
+                    <td>Malaysia Airlines Berhad</td>
+                    <td>B737</td>
+                    <td>39333<br>39334</td>
+                    <td>2019</td>
+                    <td>Annual Inspection (Physical/Records)</td>
+                    <td>Sepang, Malaysia</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Annual Audit</td>
+                    <td>Standard Chartered</td>
+                    <td>Malaysia Airlines Berhad</td>
+                    <td>A330<br>B737</td>
+                    <td>1209<br>40149</td>
+                    <td>2019</td>
+                    <td>Annual Inspection (Physical/Records)</td>
+                    <td>Sepang, Malaysia</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>Annual Audit</td>
+                    <td>Avolon</td>
+                    <td>Malaysia Airlines Berhad</td>
+                    <td>B737</td>
+                    <td>40154</td>
+                    <td>2018</td>
+                    <td>Annual Inspection (Physical/Records)</td>
+                    <td>Sepang, Malaysia</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>Annual Audit</td>
+                    <td>Novus Aviation</td>
+                    <td>Malaysia Airlines Berhad</td>
+                    <td>A330</td>
+                    <td>1470<br>1281</td>
+                    <td>2018</td>
+                    <td>Annual Inspection (Physical/Records)</td>
+                    <td>Sepang, Malaysia</td>
+                </tr>
             </table>
         </section>
 
